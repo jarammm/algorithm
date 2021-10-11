@@ -15,3 +15,9 @@
 7단계 : [2839번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_2839%EB%B2%88.ipynb)<br/>
 8단계 : [10757번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_10757%EB%B2%88.ipynb)<br/>
 9단계 : [1011번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_1011%EB%B2%88.ipynb)<br/>
+
+<br/>
+
+## 9단계 기본수학 2
+
+1단계 : [1011번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_1011%EB%B2%88.ipynb)<br/>
