@@ -2,6 +2,12 @@
 
 :coffee:백준 온라인 저지 - 단계별 풀이:coffee:
 
+<br/>
+
+**참고**
+* [언어별 입력 속도 비교](https://www.acmicpc.net/blog/view/56)
+* [언어별 출력 속도 비교](https://www.acmicpc.net/blog/view/57)
+
 <br/><br/>
 
 ## 8단계 기본수학 1
