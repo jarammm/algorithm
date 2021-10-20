@@ -36,4 +36,11 @@
 
 ## 10단계 재귀
 
-1단계 : [10872번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_10872%EB%B2%88.ipynb)
+1단계 : [10872번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_10872%EB%B2%88.ipynb)<br/>
+2단계 : [10870번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_10870%EB%B2%88.ipynb)<br/>
+
+
+
+
+
+
