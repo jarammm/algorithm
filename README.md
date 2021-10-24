@@ -49,9 +49,9 @@
 
 <br/>
 
-## 11단계 브루트포스
+## 11단계 브루트 포스
 
-1단계 : [2798번]()<br/>
+1단계 : [2798번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_2798%EB%B2%88.ipynb)<br/>
 2단계 : [2231번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_2231%EB%B2%88.ipynb)<br/>
 
 
