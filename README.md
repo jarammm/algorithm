@@ -62,3 +62,4 @@
 ## 12단계 정렬
 
 1단계 : [2750번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_2750%EB%B2%88.ipynb)<br/>
+2단계 : [2751번]()<br/>
