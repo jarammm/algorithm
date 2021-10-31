@@ -63,5 +63,5 @@
 
 1단계 : [2750번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_2750%EB%B2%88.ipynb)<br/>
 2단계 : [2751번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_2751%EB%B2%88.ipynb) + [C버전](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_2751%EB%B2%88.c), [Java버전](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_2751%EB%B2%88.java)<br/>
-3단계 : [10989번]()<br/>
+3단계 : [10989번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_10989%EB%B2%88.ipynb)<br/>
 4단계 : [2108번]()<br/>
