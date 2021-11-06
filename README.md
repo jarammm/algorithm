@@ -69,5 +69,5 @@
 6단계 : [11650번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_11650%EB%B2%88.ipynb)<br/>
 7단계 : [11651번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_11651%EB%B2%88.ipynb)<br/>
 8단계 : [1181번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_1181%EB%B2%88.ipynb)<br/>
-9단계 : [10814번]()<br/>
+9단계 : [10814번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_10814%EB%B2%88.ipynb)<br/>
 10단계 : [18870번]()<br/>
