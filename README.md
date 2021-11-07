@@ -7,6 +7,8 @@
 ## 참고
 * [언어별 입력 속도 비교](https://www.acmicpc.net/blog/view/56)
 * [언어별 출력 속도 비교](https://www.acmicpc.net/blog/view/57)
+* 1 ~ 7단계 건너 뜀
+* 이외에 단계가 부재 시 사유 : 문제 부재
 
 <br/><br/>
 
@@ -71,3 +73,9 @@
 8단계 : [1181번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_1181%EB%B2%88.ipynb)<br/>
 9단계 : [10814번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_10814%EB%B2%88.ipynb)<br/>
 10단계 : [18870번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_18870%EB%B2%88.ipynb)<br/>
+
+<br/>
+
+## 14단계 백트래킹
+
+1단계 : [15649번]()<br/>
