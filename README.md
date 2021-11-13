@@ -40,7 +40,7 @@
 8단계 : [3009번](https://github.com/jarammm/Baekjoon/blob/main/9%EB%8B%A8%EA%B3%84/%EB%B0%B1%EC%A4%80_3009%EB%B2%88.ipynb)<br/>
 9단계 : [4153번](https://github.com/jarammm/Baekjoon/blob/main/9%EB%8B%A8%EA%B3%84/%EB%B0%B1%EC%A4%80_4153%EB%B2%88.ipynb)<br/>
 10단계 : [3053번](https://github.com/jarammm/Baekjoon/blob/main/9%EB%8B%A8%EA%B3%84/%EB%B0%B1%EC%A4%80_3053%EB%B2%88.ipynb)<br/>
-11단계 : [1002번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_1002%EB%B2%88.ipynb)<br/>
+11단계 : [1002번](https://github.com/jarammm/Baekjoon/blob/main/9%EB%8B%A8%EA%B3%84/%EB%B0%B1%EC%A4%80_1002%EB%B2%88.ipynb)<br/>
 
 <br/>
 
