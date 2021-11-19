@@ -4,7 +4,7 @@
 
 <br/>
 
-## 참고
+### 참고
 * [언어별 입력 속도 비교](https://www.acmicpc.net/blog/view/56)
 * [언어별 출력 속도 비교](https://www.acmicpc.net/blog/view/57)
 * 1 ~ 7단계 건너 뜀
@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-## 백준 단계별 풀이
+### 백준 단계별 풀이
 
 <details>
 <summary>8단계 기본수학 1</summary>
@@ -111,3 +111,38 @@
 
 </div>
 </details>
+
+<br/>
+
+# LeetCode
+```bash
+✨LeetCode✨
+    ├── Introduction to Data Structure
+    │   ├── Array and String
+    │   ├── Queue & Stack
+    │   ├── Linked List
+    │   ├── Hash Table
+    │   ├── Binary Tree
+    │   ├── Binary Search Tree
+    │   ├── N-ary Tree
+    │   └── Trie
+    │
+    ├── Introduction to Algorithms
+    │   ├── Recursion 1
+    │   ├── Recursion 2
+    │   └── Binary Search
+    │
+    └── Top Interview Questions - Hard
+        ├── Array and Strings 🔛
+        ├── Linked List
+        ├── Trees and Graphs
+        ├── Backtracking
+        ├── Sorting and Searching
+        ├── Dynamic Programming
+        ├── Design
+        ├── Math
+        └── Others
+```
+### Links
+1. [Introduction to Data Sructure & Algorithms](https://leetcode.com/explore/learn/)
+2. [Top Interview Questions - Hard](https://leetcode.com/explore/interview/card/top-interview-questions-hard/)
