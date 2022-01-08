@@ -68,11 +68,11 @@
 <summary>11단계 브루트 포스</summary>
 <div markdown="1">       
   
-1단계 : [2798번](https://github.com/jarammm/Baekjoon/blob/main/11%EB%8B%A8%EA%B3%84/%EB%B0%B1%EC%A4%80_2798%EB%B2%88.ipynb)<br/>
-2단계 : [2231번](https://github.com/jarammm/Baekjoon/blob/main/11%EB%8B%A8%EA%B3%84/%EB%B0%B1%EC%A4%80_2231%EB%B2%88.ipynb)<br/>
-3단계 : [7568번](https://github.com/jarammm/Baekjoon/blob/main/11%EB%8B%A8%EA%B3%84/%EB%B0%B1%EC%A4%80_7568%EB%B2%88.ipynb)<br/>
-4단계 : [1018번](https://github.com/jarammm/Baekjoon/blob/main/11%EB%8B%A8%EA%B3%84/%EB%B0%B1%EC%A4%80_1018%EB%B2%88.ipynb)<br/>
-5단계 : [1436번](https://github.com/jarammm/Baekjoon/blob/main/11%EB%8B%A8%EA%B3%84/%EB%B0%B1%EC%A4%80_1436%EB%B2%88.ipynb)<br/>
+1단계 : [2798번](https://github.com/jarammm/Baekjoon/blob/main/11단계/백준_2798번.ipynb)<br/>
+2단계 : [2231번](https://github.com/jarammm/Baekjoon/blob/main/11단계/백준_2231번.ipynb)<br/>
+3단계 : [7568번](https://github.com/jarammm/Baekjoon/blob/main/11단계/백준_7568번.ipynb)<br/>
+4단계 : [1018번](https://github.com/jarammm/Baekjoon/blob/main/11단계/백준_1018번.ipynb)<br/>
+5단계 : [1436번](https://github.com/jarammm/Baekjoon/blob/main/11단계/백준_1436번.ipynb)<br/>
 
 </div>
 </details>
@@ -82,16 +82,16 @@
 <summary>12단계 정렬</summary>
 <div markdown="1">       
 
-1단계 : [2750번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_2750%EB%B2%88.ipynb)<br/>
-2단계 : [2751번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_2751%EB%B2%88.ipynb) + [C버전](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_2751%EB%B2%88.c), [Java버전](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_2751%EB%B2%88.java)<br/>
-3단계 : [10989번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_10989%EB%B2%88.ipynb)<br/>
-4단계 : [2108번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_2108%EB%B2%88.ipynb)<br/>
-5단계 : [1427번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_1427%EB%B2%88.ipynb)<br/>
-6단계 : [11650번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_11650%EB%B2%88.ipynb)<br/>
-7단계 : [11651번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_11651%EB%B2%88.ipynb)<br/>
-8단계 : [1181번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_1181%EB%B2%88.ipynb)<br/>
-9단계 : [10814번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_10814%EB%B2%88.ipynb)<br/>
-10단계 : [18870번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_18870%EB%B2%88.ipynb)<br/>
+1단계 : [2750번](https://github.com/jarammm/Baekjoon/blob/main/12단계/백준_2750번.ipynb)<br/>
+2단계 : [2751번](https://github.com/jarammm/Baekjoon/blob/main/12단계/백준_2751번.ipynb) + [C버전](https://github.com/jarammm/Baekjoon/blob/main/12단계/백준_2751번.c), [Java버전](https://github.com/jarammm/Baekjoon/blob/main/12단계/백준_2751번.java)<br/>
+3단계 : [10989번](https://github.com/jarammm/Baekjoon/blob/main/12단계/백준_10989번.ipynb)<br/>
+4단계 : [2108번](https://github.com/jarammm/Baekjoon/blob/main/12단계/백준_2108번.ipynb)<br/>
+5단계 : [1427번](https://github.com/jarammm/Baekjoon/blob/main/12단계/백준_1427번.ipynb)<br/>
+6단계 : [11650번](https://github.com/jarammm/Baekjoon/blob/main/12단계/백준_11650번.ipynb)<br/>
+7단계 : [11651번](https://github.com/jarammm/Baekjoon/blob/main/12단계/백준_11651번.ipynb)<br/>
+8단계 : [1181번](https://github.com/jarammm/Baekjoon/blob/main/12단계/백준_1181번.ipynb)<br/>
+9단계 : [10814번](https://github.com/jarammm/Baekjoon/blob/main/12단계/백준_10814번.ipynb)<br/>
+10단계 : [18870번](https://github.com/jarammm/Baekjoon/blob/main/12단계/백준_18870번.ipynb)<br/>
 
 </div>
 </details>
@@ -100,14 +100,14 @@
 <summary>14단계 백트래킹</summary>
 <div markdown="1">       
 
-1단계 : [15649번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_15649%EB%B2%88.ipynb)<br/>
-2단계 : [15650번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_15650%EB%B2%88.ipynb)<br/>
-3단계 : [15651번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_15651%EB%B2%88.ipynb)<br/>
-4단계 : [15652번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_15652%EB%B2%88.ipynb)<br/>
-5단계 : [9663번](https://github.com/jarammm/Baekjoon/blob/main/%EB%B0%B1%EC%A4%80_9663%EB%B2%88.ipynb)<br/>
-6단계 : [2580번](https://github.com/jarammm/Baekjoon/blob/main/14%EB%8B%A8%EA%B3%84/%EB%B0%B1%EC%A4%80_2580%EB%B2%88.ipynb)<br/>
-7단계 : [14888번]()<br/>
-8단계 : [14889번]()<br/>
+1단계 : [15649번](https://github.com/jarammm/Baekjoon/blob/main/14단계/백준_15649번.ipynb)<br/>
+2단계 : [15650번](https://github.com/jarammm/Baekjoon/blob/main/14단계/백준_15650번.ipynb)<br/>
+3단계 : [15651번](https://github.com/jarammm/Baekjoon/blob/main/14단계/백준_15651번.ipynb)<br/>
+4단계 : [15652번](https://github.com/jarammm/Baekjoon/blob/main/14단계/백준_15652번.ipynb)<br/>
+5단계 : [9663번](https://github.com/jarammm/Baekjoon/blob/main/14단계/백준_9663번.ipynb)<br/>
+6단계 : [2580번](https://github.com/jarammm/Baekjoon/blob/main/14단계/백준_2580번.ipynb)<br/>
+7단계 : [14888번](https://github.com/jarammm/Baekjoon/blob/main/14단계/백준_14888번.ipynb)<br/>
+8단계 : [14889번](https://github.com/jarammm/Baekjoon/blob/main/14단계/백준_14889번.ipynb)<br/>
 
 </div>
 </details>
