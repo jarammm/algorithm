@@ -146,7 +146,7 @@
     │   └── Binary Search
     │
     └── Top Interview Questions - Hard
-        ├── Array and Strings 🔛
+        ├── Array and Strings
         ├── Linked List
         ├── Trees and Graphs
         ├── Backtracking
